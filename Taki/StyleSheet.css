@@ -1,0 +1,23 @@
+﻿div{
+    margin: auto;
+}
+
+#cashAndTrash{
+    margin: auto;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+img{
+    margin: 5px;
+    margin-bottom: 5px;
+    border: 2px solid black;
+    background-color: white;
+}
+/* #player1{
+
+    background-color: green;
+}
+
+#player2{
+    background-color: blue;
+} */
